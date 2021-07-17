@@ -4,7 +4,7 @@ This implementation is part of a project in Recommender System course.
 
 We created an extention to the GraphRec model using a community detection algorithm. 
 
-We used an unofficial implemetation based on:
+We used an unofficial implemetation based on:\
 https://github.com/Wang-Shuo/GraphRec_PyTorch \
 https://github.com/lcwy220/Social-Recommendation
 
