@@ -20,6 +20,5 @@ Paper:
 
 
 ## Example to run the codes
-Run Notebooks examples
-
-N
+  1. Run Notebooks examples
+  2. For training the model, change the 'test' parameter to False
