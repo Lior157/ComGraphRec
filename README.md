@@ -1,4 +1,5 @@
-# RS-project: Communities and Graph Neural Network for Social Recommendations
+# RS-project: 
+Social Recommendations: Communities and Graph Neural Network for Social Recommendations
 
 This implementation is part of a project in Recommender System course. 
 
